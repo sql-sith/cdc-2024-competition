@@ -23,3 +23,4 @@ Private repo for 2024 Innovate IT CDC.
 ## Server snapshots
 
 - Short and sweet: don't change anything until there is a snapshot of the server. We should consider how frequently we want to take snapshots.
+- Altenitively: Make a snapshot then change things.
