@@ -1,0 +1,1 @@
+Enter credentials in this format: `server_name:user/password # notes [eg: service name, etc.]`
