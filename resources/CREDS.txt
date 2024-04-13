@@ -1,1 +1,7 @@
 Enter credentials in this format: `server_name:user/password # notes [eg: service name, etc.]`
+
+LinuxClient:doug/LinuxClientPassword123!
+LinuxClient:root/L1nuxCl13ntP@$$w0rd!
+Website:cdc/LessSecurePassword123!
+Website:root/$up3r$3cur3P@$$w0rd!
+WindowsClient:Administrator/WC@dm1n1$tr@t0rP@$$w0rd!
