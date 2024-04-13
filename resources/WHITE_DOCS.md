@@ -12,8 +12,10 @@
 
 ## Servers
 ### Overall
+
 All servers have been audited and scanned using 'Nessus', 'nuclei', 'nmap'.
 #### Operating System Information
+
 Our file server is running a Red Hat-based distribution called Alma Linux (v8.9).
 Our web server is running Ubuntu 22.04.
 The Windows Client is running Windows 10.
@@ -21,8 +23,8 @@ The Linux Client is running Ubuntu 22.04.
 The Active Directory server is running Windows Server 2016.
 
 
-
-#### Firewall Rules: 
+#### Firewall Rules:
+ 
 **All Servers**: Outbound connections on all devices are only allowed to machines on the 64.5.53.0/24 subnet.
 **File Server**: Inbound connections are allowed on ports 22 (ssh) and 445 (smb).
 **Web Server**: Inbound connections are allowed on ports 22 (ssh) and 3000 (http(s)).
@@ -30,3 +32,6 @@ The Active Directory server is running Windows Server 2016.
 **LC Server**: Inbound connections are allowed on port 22 (ssh).
 **AD Server**: Inbound connections are allowed on port 3389 (rdp).
 
+#### Applications
+**File Server**: Samba is running to provide students with access to their files and home directories.
+**Web Server**: A "Next.js" application hosts the school's web page. A regex check has been added to the email handler to validate user input.
