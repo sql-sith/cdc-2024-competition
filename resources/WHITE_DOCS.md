@@ -9,3 +9,24 @@
 | wc.team5.isucdc.com    | 64.5.53.30 | 3389        |
 | lc.team5.isucdc.com    | 64.5.53.40 | 22          |
 | ad.team5.isucdc.com    | 64.5.53.50 | 3389        |
+
+## Servers
+### Overall
+All servers have been audited and scanned using 'Nessus', 'nuclei', 'nmap'.
+#### Operating System Information
+Our file server is running a Red Hat-based distribution called Alma Linux (v8.9).
+Our web server is running Ubuntu 22.04.
+The Windows Client is running Windows 10.
+The Linux Client is running Ubuntu 22.04.
+The Active Directory server is running Windows Server 2016.
+
+
+
+#### Firewall Rules: 
+**All Servers**: Outbound connections on all devices are only allowed to machines on the 64.5.53.0/24 subnet.
+**File Server**: Inbound connections are allowed on ports 22 (ssh) and 445 (smb).
+**Web Server**: Inbound connections are allowed on ports 22 (ssh) and 3000 (http(s)).
+**WC Server**: Inbound connections are allowed on port 3389 (rdp).
+**LC Server**: Inbound connections are allowed on port 22 (ssh).
+**AD Server**: Inbound connections are allowed on port 3389 (rdp).
+
