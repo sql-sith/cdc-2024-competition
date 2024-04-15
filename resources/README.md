@@ -8,7 +8,13 @@ Use this folder to do the following:
 - Do not upload really large files like ISO files. GitHub is not designed for this.
 - If you _must_ store a large file somewhere, consider storing it on a server on our competition network, and remove it before attack phase starts unless it's necessary to keep it.
 
-## Helpful links
+## Competition links
+
+- [IScore](https://iscore.iseage.org/)
+- [ISEAGE VCenter/VSphere Site](https://vcenter.iseage.org/)
+- [Competition Docs on Google Drive](https://drive.google.com/drive/folders/1vglw3iMGlacdrVnlQSni57NSU9l4fYb3)
+
+## Other links
 
 > This is a Markdown file. When you edit this file, you can either paste in raw URLs, or you can use this format: `[text to display](URL)`.
 >
