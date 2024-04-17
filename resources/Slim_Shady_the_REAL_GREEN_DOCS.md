@@ -61,7 +61,7 @@ www.team5.isucdc.com
 
 You should get a site that looks like this one:
 
-![The highschool website](img/TODD_ME_HOME.png)
+![The highschool website](img/COUNTRY_ROOOOOADS_TODD_ME_HOME.png)
 
 ### Adding yourself to the mailing list
 
@@ -69,7 +69,7 @@ First, go to the website. This is explained directly above this section.
 
 Next, click the button labeled `ENEWS` on the green ribbon.
 
-![The button "ENEWS" is verry happy.](img/FLYY_ME_TO_EEE_NEWS_LET_ME_PLAY.png)
+![The button "ENEWS" is verry happy.](img/FLYY_ME_TO_EEE_NEWS_LET_ME_PLAY_AMONG_DOT_TARS.png)
 
 Next, enter your email in the box below the text `Enter email to sign up for eNews`.
 
