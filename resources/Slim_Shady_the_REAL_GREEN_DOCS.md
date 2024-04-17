@@ -59,22 +59,25 @@ Open your web browser and go to the following website:
 www.team5.isucdc.com
 ```
 
+You should get a site that looks like this one:
+
+![The highschool website](img/TODD_ME_HOME.png)
+
 ### Adding yourself to the mailing list
 
 First, go to the website. This is explained directly above this section.
 
 Next, click the button labeled `ENEWS` on the green ribbon.
 
-TODO: IMAGE.png
+![The button "ENEWS" is verry happy.](img/FLYY_ME_TO_EEE_NEWS_LET_ME_PLAY.png)
 
 Next, enter your email in the box below the text `Enter email to sign up for eNews`.
 
-TODO: IMAGE.png
+![The email "joe.shmoe@example.com" has been entered into the text box](img/HI_IM_JOE_SHMOE!!.png)
 
 Finally, click the `SEND` button.
 
-TODO: IMAGE.png
-
+![The button "SEND" is verry happy.](img/JOE_GETS_PWNED.png)
 
 ## Using the Windows Client
 
