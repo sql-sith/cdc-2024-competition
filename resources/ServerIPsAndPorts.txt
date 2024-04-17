@@ -1,0 +1,16 @@
+# IP_.___.___.___ : PORT     : DESCRIPTION
+
+64.5.53.
+
+64 . 5 .53 .10  : *        : Files Server
+64 . 5 .53 .10  : 22       : SSH
+64 . 5 .53 .10  : 445      : Samba
+64 . 5 .53 .20  : *        : Website Server
+64 . 5 .53 .20  : 22       : SSH
+64 . 5 .53 .20  : 3000     : HTTP(s)
+64 . 5 .53 .30  : *        : Windows Client
+64 . 5 .53 .30  : 3389     : RDP
+64 . 5 .53 .40  : *        : Linux Client
+64 . 5 .53 .40  : 22       : SSH
+64 . 5 .53 .50  : *        : Active Directory
+64 . 5 .53 .50  : 3389     : RDP
