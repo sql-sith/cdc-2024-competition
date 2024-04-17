@@ -67,11 +67,11 @@ Next, click the button labeled `ENEWS` on the green ribbon.
 
 TODO: IMAGE.png
 
-Next, enter your email in the `BOXNAME` box.
+Next, enter your email in the box below the text `Enter email to sign up for eNews`.
 
 TODO: IMAGE.png
 
-Finally, click the `SUBMITNAME` button.
+Finally, click the `SEND` button.
 
 TODO: IMAGE.png
 
