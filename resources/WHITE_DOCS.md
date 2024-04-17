@@ -35,3 +35,7 @@ The Active Directory server is running Windows Server 2016.
 #### Applications
 **File Server**: Samba is running to provide students with access to their files and home directories.
 **Web Server**: A "Next.js" application hosts the school's web page. A regex check has been added to the email handler to validate user input.
+
+#### Fixes
+**Web Server**: The web server was given it's own service account. The python server for handling emails was fixed to validate emails and prevent injection. Added a timestamp to the python POST server for intrusion reports.
+
