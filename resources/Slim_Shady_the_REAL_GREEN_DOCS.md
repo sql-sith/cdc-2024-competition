@@ -26,7 +26,23 @@ You are now logged in.
 
 ### If You're on Windows...
 
-TODO: Windows SSH client example.
+> We will use the ssh client PuTTY as an example of how to access this service.
+> There are many other ssh clients available for windows, but the process is very much the same.
+> 
+> We will begin assuming that PuTTY is open.
+
+First, put `files.team5.isucdc.com` in the ___ box.
+
+>> Next documenter: please note and screenshot the buttons to press
+>> also, please take many screenshots.
+
+TODO: Image.png
+
+-Tell how to enter username and password.
+
+TODO: Image.png
+
+-Tell that they are in
 
 ### Now That You've Logged in
 
