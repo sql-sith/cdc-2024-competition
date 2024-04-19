@@ -140,8 +140,4 @@ Remember to log off of the windows client when you are done, to ensure that no o
 
 ## Using the Linux Client
 
--SSH
-
--You're in...
-
-##
+TODO: COPY FROM [THIS](#using-the-file-service-over-ssh)
