@@ -105,13 +105,38 @@ TODO: EXAMPLE OF AN RDP CLIENT
 
 ### Accessing Your Files From the Windows Client
 
--Opens Commander
+Now that you are on the machine, open the start menu.
 
--netuse
+![An arrow pointist towards the bottom left of the screen.](img/STARTING_ARROW.png)
 
--mounted as drive now
+Next, type `CMD` into the start menu.
 
--can do things to the files
+![The word 'CMD' has been entered into the start menu's search box.](img/PRESS_COMMAND.png)
+
+Select Command Prompt.
+
+![The option "Command Prompt" is selected from the start menu.](img/SELECT_COMMAND.png)
+
+
+A friendly text window should pop up.
+
+In this window type the following:
+
+```bat
+net use Z: \\files.team5.isucdc.com\homes /user:{username}
+```
+
+> Replace `{username}` with your username.
+
+Press enter once what you typed looks good.
+
+When prompted, enter your password.
+
+> Note: Your password will be invisible as you type it, but rest assured, it is being received.
+
+Your files are now mounted as the `Z:` drive and can be interacted with however you please.
+
+Remember to log off of the windows client when you are done, to ensure that no one can maliciously modify your files.
 
 ## Using the Linux Client
 
