@@ -8,7 +8,7 @@ This document is intended to be used by the green team for using our (Team 5's) 
 
 Firstly, open a terminal.
 
-TODO: TERM.png
+![Image of an open terminal](img/TERM.png)
 
 Next, type the following:
 
