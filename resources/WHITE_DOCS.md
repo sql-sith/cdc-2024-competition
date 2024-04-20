@@ -10,6 +10,8 @@
 | lc.team5.isucdc.com    | 64.5.53.40 | 22          |
 | ad.team5.isucdc.com    | 64.5.53.50 | 3389        |
 
+![Diagram of the above table](img/NetworkDiagram.png)
+
 ## Servers
 ### Overall
 
