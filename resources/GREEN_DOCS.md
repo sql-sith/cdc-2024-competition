@@ -29,21 +29,29 @@ You are now logged in.
 
 > We will use the ssh client PuTTY as an example of how to access this service.
 > There are many other ssh clients available for windows, but the process is very much the same.
-> 
-> We will begin assuming that PuTTY is open.
 
-First, put `files.team5.isucdc.com` in the ___ box.
+Click the windows button and start typing "Remote Desktop Connection" to search for the PuTTY client.
+![First image goes here.](img/putty_doc_1.png)
 
->> Next documenter: please note and screenshot the buttons to press
->> also, please take many screenshots.
+When the window appears, type in the hostname of the computer you wish to connect to.
 
-TODO: Image.png
+![](img/putty_doc_2.png) -------->>>> ![](img/putty_doc_2.5.png)
 
--Tell how to enter username and password.
+You may receive a security alert like this one. Click "Accept".
 
-TODO: Image.png
+![You may receive a security alert like this one. Click "Accept".](img/putty_doc_3.png)
 
--Tell that they are in
+Type in your username and press ENTER.
+
+![Type in your username and press ENTER.](img/putty_doc_4.png)
+
+Type in your password an press ENTER.
+
+![Type in your password an press ENTER.](img/putty_doc_5.png)
+
+Welcome!
+
+![You're now logged in.](img/putty_doc_6.png)
 
 ### Now That You've Logged in
 
@@ -86,7 +94,7 @@ First, go to the website. This is explained directly above this section.
 
 Next, click the button labeled `ENEWS` on the green ribbon.
 
-![The button "ENEWS" is verry happy.](img/FLYY_ME_TO_EEE_NEWS_LET_ME_PLAY_AMONG_DOT_TARS.png)
+![The button "ENEWS" is very happy.](img/FLYY_ME_TO_EEE_NEWS_LET_ME_PLAY_AMONG_DOT_TARS.png)
 
 Next, enter your email in the box below the text `Enter email to sign up for eNews`.
 
@@ -94,17 +102,11 @@ Next, enter your email in the box below the text `Enter email to sign up for eNe
 
 Finally, click the `SEND` button.
 
-![The button "SEND" is verry happy.](img/JOE_GETS_PWNED.png)
+![The button "SEND" is very happy.](img/JOE_GETS_PWNED.png)
 
 ## Using the Windows Client
 
-TODO: EXAMPLE OF AN RDP CLIENT
-
--The user enters their info.
-
--The user is on teh windowes client.
-
-### Using RDP
+### Connecting using RDP
 
 Click the windows button and start typing "Remote Desktop Connection" to search for the RDP client.
 ![Click the windows button and start typing "Remote Desktop Connection" to search for the RDP client.](img/rdp_doc_1.png)
@@ -182,4 +184,28 @@ Remember to log off of the windows client when you are done, to ensure that no o
 
 ## Using the Linux Client
 
-TODO: COPY FROM [THIS](#using-the-file-service-over-ssh)
+> We will use the ssh client PuTTY as an example of how to access this service.
+> There are many other ssh clients available for windows, but the process is very much the same.
+
+Click the windows button and start typing "Remote Desktop Connection" to search for the PuTTY client.
+![First image goes here.](img/putty_doc_1.png)
+
+When the window appears, type in the hostname of the computer you wish to connect to.
+
+![](img/putty_doc_2.png) -------->>>> ![](img/putty_doc_2.5.png)
+
+You may receive a security alert like this one. Click "Accept".
+
+![You may receive a security alert like this one. Click "Accept".](img/putty_doc_3.png)
+
+Type in your username and press ENTER.
+
+![Type in your username and press ENTER.](img/putty_doc_4.png)
+
+Type in your password an press ENTER.
+
+![Type in your password an press ENTER.](img/putty_doc_5.png)
+
+Welcome!
+
+![You're now logged in.](img/putty_doc_6.png)
