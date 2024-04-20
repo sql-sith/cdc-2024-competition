@@ -116,7 +116,30 @@ Click "Show Options" in the bottom left corner, and enter your desired username.
 ![Click "Show Options" in the bottom left corner, and enter your desired username. Click "Connect".](img/rdp_doc_3.png)
 
 Enter the password for the desired user and the process is complete!
+
 ![Enter the password for the desired user and the process is complete!](img/rdp_doc_4.png)
+
+### Using PuTTY
+
+Click the windows button and start typing "Remote Desktop Connection" to search for the PuTTY client.
+![First image goes here.](img/putty_doc_1.png)
+
+When the window appears, type in the hostname of the computer you wish to connect to.
+
+(img/putty_doc_2.png) ---> (img/putty_doc_2.5.png)
+
+You may recieve a security alert like this one. Click "Accept".
+![You may recieve a security alert like this one. Click "Accept".](img/putty_doc_3.png)
+
+Type in your username and press ENTER.
+![Type in your username and press ENTER.](img/putty_doc_4.png)
+
+Type in your password an press ENTER.
+![Type in your password an press ENTER.](img/putty_doc_5.png)
+
+Welcome!
+![You're now logged in.](img/putty_doc_6.png)
+
 
 ### Accessing Your Files From the Windows Client
 
