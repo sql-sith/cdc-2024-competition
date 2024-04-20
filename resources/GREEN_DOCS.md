@@ -35,6 +35,9 @@ Click the windows button and start typing "Remote Desktop Connection" to search 
 
 When the window appears, type in the hostname of the computer you wish to connect to.
 
+> NOTE: The second screenshot below this has the incorrect text for this step.
+> Please instead enter the text `files.team5.iowacdc.com`.
+
 ![](img/putty_doc_2.png)
 
 ![](img/putty_doc_2.5.png)
@@ -167,6 +170,8 @@ Click the windows button and start typing "Remote Desktop Connection" to search 
 ![First image goes here.](img/putty_doc_1.png)
 
 When the window appears, type in the hostname of the computer you wish to connect to.
+
+> In this case, please instead enter the text `lc.team5.iowacdc.com` just as shown.
 
 ![](img/putty_doc_2.png)
 
