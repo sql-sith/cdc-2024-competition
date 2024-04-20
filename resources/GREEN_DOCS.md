@@ -121,7 +121,7 @@ Enter the password for the desired user and the process is complete!
 
 ### Using PuTTY
 
-Click the windows button and start typing "Remote Desktop Connection" to search for the PuTTY client.
+Click the windows button and start typing "PuTTY" to search for the PuTTY client.
 ![First image goes here.](img/putty_doc_1.png)
 
 When the window appears, type in the hostname of the computer you wish to connect to.
