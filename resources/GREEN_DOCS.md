@@ -35,28 +35,25 @@ Click the windows button and start typing "Remote Desktop Connection" to search 
 
 When the window appears, type in the hostname of the computer you wish to connect to.
 
-> NOTE: The second screenshot below this has the incorrect text for this step.
-> Please instead enter the text `files.team5.iowacdc.com`.
-
 ![](img/putty_doc_2.png)
 
-![](img/putty_doc_2.5.png)
+![](img/putty_files_url.png)
 
 You may receive a security alert like this one. Click "Accept".
 
-![You may receive a security alert like this one. Click "Accept".](img/putty_doc_3.png)
+![You may receive a security alert like this one. Click "Accept".](img/files_warn.png)
 
 Type in your username and press ENTER.
 
-![Type in your username and press ENTER.](img/putty_doc_4.png)
+![Type in your username and press ENTER.](img/olin_files.png)
 
 Type in your password and press ENTER.
 
-![Type in your password and press ENTER.](img/putty_doc_5.png)
+![Type in your password and press ENTER.](img/olin_passwd.png)
 
 Welcome!
 
-![You're now logged in.](img/putty_doc_6.png)
+![You're now logged in.](img/olin_in.png)
 
 ### Now That You've Logged in
 
@@ -170,8 +167,6 @@ Click the windows button and start typing "Remote Desktop Connection" to search 
 ![First image goes here.](img/putty_doc_1.png)
 
 When the window appears, type in the hostname of the computer you wish to connect to.
-
-> In this case, please instead enter the text `lc.team5.iowacdc.com` just as shown.
 
 ![](img/putty_doc_2.png)
 
