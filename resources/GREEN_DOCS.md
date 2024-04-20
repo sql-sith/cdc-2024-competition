@@ -16,7 +16,8 @@ Next, type the following:
 ssh {your user name}@files.team5.isucdc.com
 ```
 
-> Replace `{your user name}` with your username.
+> Replace `{your user name}` with your username.  
+> Press enter once the command looks good.
 
 Next, type in your password.
 
