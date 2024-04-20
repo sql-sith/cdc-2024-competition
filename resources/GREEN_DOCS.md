@@ -126,15 +126,18 @@ Click the windows button and start typing "Remote Desktop Connection" to search 
 
 When the window appears, type in the hostname of the computer you wish to connect to.
 
-(img/putty_doc_2.png) ---> (img/putty_doc_2.5.png)
+![](img/putty_doc_2.png) ---> ![](img/putty_doc_2.5.png)
 
 You may recieve a security alert like this one. Click "Accept".
+
 ![You may recieve a security alert like this one. Click "Accept".](img/putty_doc_3.png)
 
 Type in your username and press ENTER.
+
 ![Type in your username and press ENTER.](img/putty_doc_4.png)
 
 Type in your password an press ENTER.
+
 ![Type in your password an press ENTER.](img/putty_doc_5.png)
 
 Welcome!
