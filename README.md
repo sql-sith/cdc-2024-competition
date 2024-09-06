@@ -1,25 +1,5 @@
-# cdc-2024-competition
+# Install Instructions
 
-Private repo for 2024 Innovate IT CDC.
+Windows Embedded Standard 7 SP1 consists of 3 DVD5 images (ISO's). Download the .exe and .rar files for each DVD image into its own folder and run the .exe file in that folder to reconstitute the .ISO file. Once the .ISO file is created you can then burn the ISO onto a blank DVD. The toolkit DVD is used to install the Image Configuration Editor (ICE) and associated distribution share(s) onto a PC. The 32-bit and 64-bit Standard 7 SP1 DVDs are bootable WinPE DVDs that contain the Image Builder Wizard (IBW) and the corresponding 32-bit or 64-bit distribution share. Typically these DVDs are used to boot into Windows PE on the target device and apply the runtime image created with ICE or to prototype image creation using the wizard and various templates available in IBW. Please read the Windows Embedded Standard 7 SP1 documentation for more information on using ICE and IBW to create and deploy runtime images to your devices.
 
-## Use Issues to track work that needs to be done
-
-- Keep discussions about issues there.
-- Think about the right level of granularity when you enter new issues so that relevant comments are easy to follow
-- Resolve the issue promptly when you have completed the work so that others know not to try to do work that is already complete
-- I'll show you how this works at our first Tuesday meeting
-
-## Folders
-
-- `./src`
-  - We need to put any source code we need to work on in this folder
-  - Each project gets its own folder under `./src`
-  - I'll show you how we'll use this at our first Tuesday meeting
-- `./resources`
-  - We can put links on the `README` file in this directory.
-  - If we find any files we want to have access to, they can be stored here as well
-    - However, we do NOT want to store really large files in GitHub. Really large files should be stored on servers in our competition network.
-
-## Server snapshots
-
-- Short and sweet: don't change anything until there is a snapshot of the server. We should consider how frequently we want to take snapshots.
+Source: [Microsoft](https://www.microsoft.com/en-us/download/details.aspx?id=11887&lc=1033)
